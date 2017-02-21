@@ -1,9 +1,6 @@
 # POKEMON MVP [![Build Status](https://travis-ci.org/ravidsrk/android-mvp-starter.svg?branch=master)](https://travis-ci.org/ravidsrk/android-mvp-starter)
 
 This is a very simple MVP Android Architecture and code base for your structure with all boilerplate for Networking and Testing.
-<p align="center">
-  <img src="http://g.recordit.co/L5selg7aIv.gif" width="250">
-</p>
 
 ## This project uses:
 - [RxJava2](https://github.com/ReactiveX/RxJava) and [RxAndroid](https://github.com/ReactiveX/RxAndroid)
