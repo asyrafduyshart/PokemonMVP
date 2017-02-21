@@ -5,7 +5,7 @@
 
 This is a very simple MVP Android Architecture and code base for your structure with all boilerplate for Networking and Testing.
 <p align="center">
-  <img src="http://g.recordit.co/7JNqTQMwLS.gif">
+  <img src="http://g.recordit.co/L5selg7aIv.gif" width="250">
 </p>
 
 ## This project uses:
