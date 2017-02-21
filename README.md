@@ -1,4 +1,4 @@
-# POKEMON MVP [![Build Status](https://travis-ci.org/ravidsrk/android-mvp-starter.svg?branch=master)](https://travis-ci.org/ravidsrk/android-mvp-starter)
+# POKEMON MVP
 
 This is a very simple MVP Android Architecture and code base for your structure with all boilerplate for Networking and Testing.
 
